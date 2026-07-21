@@ -1,14 +1,14 @@
 {
   "name": "namık",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "takatımkalmadı",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ataturk-tn7a.aternos.me",
     "port": 18869,
-    "version": "26.1.2",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
